@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\AccesoADatos\bin\Debug\net6.0\AccesoADatos.deps.json
+C:\Users\David\source\repos\AccesoADatos\bin\Debug\net6.0\AccesoADatos.runtimeconfig.json
+C:\Users\David\source\repos\AccesoADatos\bin\Debug\net6.0\AccesoADatos.dll
+C:\Users\David\source\repos\AccesoADatos\bin\Debug\net6.0\AccesoADatos.pdb
+C:\Users\David\source\repos\AccesoADatos\bin\Debug\net6.0\Entidades.dll
+C:\Users\David\source\repos\AccesoADatos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.AssemblyInfo.cs
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.csproj.CopyComplete
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.dll
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\refint\AccesoADatos.dll
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.pdb
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\AccesoADatos.genruntimeconfig.cache
+C:\Users\David\source\repos\AccesoADatos\obj\Debug\net6.0\ref\AccesoADatos.dll

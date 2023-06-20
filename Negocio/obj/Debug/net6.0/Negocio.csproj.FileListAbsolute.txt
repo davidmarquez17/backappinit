@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\Negocio\bin\Debug\net6.0\Negocio.deps.json
+C:\Users\David\source\repos\Negocio\bin\Debug\net6.0\Negocio.dll
+C:\Users\David\source\repos\Negocio\bin\Debug\net6.0\Negocio.pdb
+C:\Users\David\source\repos\Negocio\bin\Debug\net6.0\AccesoADatos.dll
+C:\Users\David\source\repos\Negocio\bin\Debug\net6.0\Entidades.dll
+C:\Users\David\source\repos\Negocio\bin\Debug\net6.0\AccesoADatos.pdb
+C:\Users\David\source\repos\Negocio\bin\Debug\net6.0\Entidades.pdb
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.csproj.CopyComplete
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.dll
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\Negocio.pdb
+C:\Users\David\source\repos\Negocio\obj\Debug\net6.0\ref\Negocio.dll
